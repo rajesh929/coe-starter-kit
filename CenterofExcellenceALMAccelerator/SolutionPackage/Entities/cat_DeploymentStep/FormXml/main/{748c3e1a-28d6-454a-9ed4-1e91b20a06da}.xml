@@ -64,6 +64,22 @@
                         </control>
                       </cell>
                     </row>
+                    <row>
+                      <cell id="{40dda9a9-9b79-4d59-9510-bef797e49c48}" locklevel="0" colspan="1" rowspan="1">
+                        <labels>
+                          <label description="Source Branch" languagecode="1033" />
+                        </labels>
+                        <control id="cat_deploysourcebranchname" classid="{4273EDBD-AC1D-40D3-9FB2-095C621B552D}" datafieldname="cat_deploysourcebranchname" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{024816d1-7a90-4a16-8c90-a0e908ca3f40}" locklevel="0" colspan="1" rowspan="1">
+                        <labels>
+                          <label description="Target Branch" languagecode="1033" />
+                        </labels>
+                        <control id="cat_deploytargetbranchname" classid="{4273EDBD-AC1D-40D3-9FB2-095C621B552D}" datafieldname="cat_deploytargetbranchname" disabled="false" />
+                      </cell>
+                    </row>
                   </rows>
                 </section>
               </sections>

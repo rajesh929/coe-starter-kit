@@ -53,6 +53,7 @@
       "projectionmapping": true,
       "reactformulabar": false,
       "reliableconcurrent": true,
+      "rtlinstudiopreview": false,
       "rtlsupport": false,
       "usedisplaynamemetadata": true,
       "useenforcesavedatalimits": true,
@@ -94,7 +95,6 @@
   "ScreenOrder": [
     "Home",
     "DeploymentHistoryScreen",
-    "DeploymentSettingsScreen",
-    "Screen1"
+    "DeploymentSettingsScreen"
   ]
 }

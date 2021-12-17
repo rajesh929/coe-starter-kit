@@ -59,6 +59,22 @@
                         <control id="cat_deploymentenvironmentid" classid="{270BD3DB-D9AF-4782-9025-509E298DEC0A}" datafieldname="cat_deploymentenvironmentid" disabled="false" />
                       </cell>
                     </row>
+                    <row>
+                      <cell id="{e7eed8d6-d89e-4b96-a7c7-edc99b127f7f}" locklevel="0" colspan="1" rowspan="1">
+                        <labels>
+                          <label description="Source Branch" languagecode="1033" />
+                        </labels>
+                        <control id="cat_deploysourcebranchname" classid="{4273EDBD-AC1D-40D3-9FB2-095C621B552D}" datafieldname="cat_deploysourcebranchname" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{9e672409-59f8-4e55-80c6-0a36799cc639}" locklevel="0" colspan="1" rowspan="1">
+                        <labels>
+                          <label description="Target Branch" languagecode="1033" />
+                        </labels>
+                        <control id="cat_deploytargetbranchname" classid="{4273EDBD-AC1D-40D3-9FB2-095C621B552D}" datafieldname="cat_deploytargetbranchname" disabled="false" />
+                      </cell>
+                    </row>
                   </rows>
                 </section>
               </sections>
